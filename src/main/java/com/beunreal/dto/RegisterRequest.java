@@ -8,4 +8,7 @@ public class RegisterRequest {
     private String password;
     private String username;
     private int age;
+    private String profileImageUrl;
+    private Double latitude;
+    private Double longitude;
 }
